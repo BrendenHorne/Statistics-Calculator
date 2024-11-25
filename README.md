@@ -20,4 +20,5 @@ This repository contains my semester project for SWE 3643 Software Testing and Q
   ## Environment
   This is a cross-platform application and should work in Windows 10+, Mac OSx Ventura+, and Linux environments. Note that the application has only been carefully tested in Windows 11.\
   \
-  To prepare your environment to execute this application:
+  ### To prepare your environment to execute this application:
+  Installing Java on your device wouldn't hurt, but should not be neccesary to run the app. You can install java [here](https://www.java.com/download/ie_manual.jsp)
