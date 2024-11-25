@@ -18,6 +18,6 @@ This repository contains my semester project for SWE 3643 Software Testing and Q
   ![Screenshot 2024-11-24 164137](https://github.com/user-attachments/assets/adbc984b-6949-4c43-9aec-7a3f7f49c2ac)
 
   ## Environment
-  This is a cross-platform application and should work in Windows 10+, Mac OSx Ventura+, and Linux environments. Note that the application has only been carefully tested in Windows 11.
-  /
+  This is a cross-platform application and should work in Windows 10+, Mac OSx Ventura+, and Linux environments. Note that the application has only been carefully tested in Windows 11.\
+  \
   To prepare your environment to execute this application:
