@@ -2,7 +2,7 @@
 This repository contains my semester project for SWE 3643 Software Testing and Quality Assurance, a web based statistics calculator. The repository contains everythingyou need to run the application.
 
 ## Table of Contents
-[Team Members](#team-members)
+[Team Members](#team-members)\
 [Architecture](#architecture)
 - [Environment](#environment)
 - [Executing the Web Application](#executing-the-web-application)
