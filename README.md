@@ -29,3 +29,7 @@ Java(TM) SE Runtime Environment (build 21.0.4+8-LTS-274)\
 Java HotSpot(TM) 64-Bit Server VM (build 21.0.4+8-LTS-274, mixed mode, sharing)"\
 
 ## Executing The Web Application
+After downloading and extracting the files locate the StatCalcProject folder in your file explorer. Left click on the folder to select it. Then, right click and select Copy as Path.\
+Next open the command terminal and run the command "cd path-to-StatCalcProj". Replace path-to-StatCalcProj with the path you copied.\
+Next, run the command "runtime\bin\java -jar runtime\StatisticsCalculator.jar". Finally, open a browser and go to "http://localhost:8080"\
+To stop the application press ctrl + c in the command terminal.
