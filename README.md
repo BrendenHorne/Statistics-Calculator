@@ -30,6 +30,23 @@ Java HotSpot(TM) 64-Bit Server VM (build 21.0.4+8-LTS-274, mixed mode, sharing)"
 
 ## Executing The Web Application
 After downloading and extracting the files locate the StatCalcProject folder in your file explorer. Left click on the folder to select it. Then, right click and select Copy as Path.\
-Next open the command terminal and run the command "cd path-to-StatCalcProj". Replace path-to-StatCalcProj with the path you copied.\
-Next, run the command "runtime\bin\java -jar runtime\StatisticsCalculator.jar". Finally, open a browser and go to "http://localhost:8080"\
+Next open the command terminal and run the command "cd path\to\StatCalcProject". Replace path\to\StatCalcProject with the path you copied.\
+Next, run the command "runtime\bin\java -jar runtime\StatisticsCalculator.jar". On Mac replace back slashes "\" with foward slashes "/" 
+Finally, open a browser and go to "http://localhost:8080"\
 To stop the application press ctrl + c in the command terminal.
+
+## Executing Unit Tests
+To run unit tests first run the command "cd path\to\StatCalcProject"
+Then, run the command "runtime\bin\java -jar runtime\unitTests.jar"
+On Mac replace back slashes "\" with foward slashes "/"
+
+## Reviewing Unit Test Coverage
+![Screenshot 2024-11-27 133925](https://github.com/user-attachments/assets/2b59345d-c593-4a53-beb9-ecf08e7a1f49)
+Screenshot of 100% coverage with unit tests.
+
+## Executing End-To-End Tests
+To run end to end tests first run the command "cd path\to\StatCalcProject"
+Then, run the command "runtime\bin\java -jar runtime\e2eTests.jar"
+On Mac replace back slashes "\" with foward slashes "/"
+
+## Final Video Presentation
