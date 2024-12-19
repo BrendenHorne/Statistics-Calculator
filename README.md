@@ -18,19 +18,3 @@ Next open the command terminal and run the command "cd path\to\StatCalcProject".
 Next, run the command "runtime\bin\java -jar runtime\StatisticsCalculator.jar". On Mac replace back slashes "\" with foward slashes "/" 
 Finally, open a browser and go to "http://localhost:8080"\
 To stop the application press ctrl + c in the command terminal.
-
-## Executing Unit Tests
-To run unit tests first run the command "cd path\to\StatCalcProject"
-Then, run the command "runtime\bin\java -jar runtime\unitTests.jar"
-On Mac replace back slashes "\\" with foward slashes "/"
-
-## Reviewing Unit Test Coverage
-![Screenshot 2024-11-27 133925](https://github.com/user-attachments/assets/2b59345d-c593-4a53-beb9-ecf08e7a1f49)\
-Screenshot of 100% coverage with unit tests.
-
-## Executing End-To-End Tests
-To run end to end tests first run the command "cd path\to\StatCalcProject"
-Then, run the command "runtime\bin\java -jar runtime\e2eTests.jar"
-On Mac replace back slashes "\\" with foward slashes "/"
-
-## Final Video Presentation
