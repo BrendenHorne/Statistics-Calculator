@@ -2,7 +2,7 @@
 This repository contains my semester project for SWE 3643 Software Testing and Quality Assurance, a web based statistics calculator. The repository contains everything you need to run the application.
 
   ## Environment
-  This is a cross-platform application and should work in Windows 10+, Mac OSx Ventura+, and Linux environments. Note that the application has only been carefully tested in Windows 11.\
+  This is a cross-platform application and should work in Windows 10+, Mac OSx Ventura+, and Linux environments. Note that the application has only been carefully tested in Windows 11.
   
   ### To prepare your environment to execute this application:
   You can install java [here](https://www.java.com/download/ie_manual.jsp)\
@@ -10,7 +10,7 @@ This repository contains my semester project for SWE 3643 Software Testing and Q
   The output you see should be similar to the following:\
   "java 21.0.4 2024-07-16 LTS\
 Java(TM) SE Runtime Environment (build 21.0.4+8-LTS-274)\
-Java HotSpot(TM) 64-Bit Server VM (build 21.0.4+8-LTS-274, mixed mode, sharing)"\
+Java HotSpot(TM) 64-Bit Server VM (build 21.0.4+8-LTS-274, mixed mode, sharing)"
 
 ## Executing The Web Application
 After downloading and extracting the files locate the StatCalcProject folder in your file explorer. Left click on the folder to select it. Then, right click and select Copy as Path.\
